@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Diagnostics.CodeAnalysis;
-
+//Teste de condigo
 class Exercicio16
 {
     static void Main()
